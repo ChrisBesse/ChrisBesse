@@ -1,9 +1,9 @@
 - 👋 Ola, Meu nome é Christiano
 - 🌱 Atualmente estou aprendendo .js e .css
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyaaaaaaan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBesse)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyaaaaaaan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBesse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
   <img height="50" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png">
