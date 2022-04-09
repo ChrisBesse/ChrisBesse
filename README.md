@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Gyaaaaaaan
-- 🌱 I’m currently learning .js and .css
+- 👋 Ola, Meu nome é Christiano
+- 🌱 Atualmente estou aprendendo .js e .css
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyaaaaaaan)](https://github.com/anuraghazra/github-readme-stats)
 
