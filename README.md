@@ -1,7 +1,7 @@
 - 👋 Ola, Meu nome é Christiano
 - 🌱 Atualmente estou aprendendo .js e .css
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBesse)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBesse)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBesse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
