@@ -3,7 +3,7 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisBesse)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBesse&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBesse&langs_count=10&theme=tokyonight&layout=compact)]()
 
 <p>
   <img height="50" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png">
