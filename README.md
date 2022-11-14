@@ -8,8 +8,8 @@
 <p>
   <img height="50" src="https://www.python.org/static/community_logos/python-powered-h-50x65.png">
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png">
-	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/120px-C_Sharp_wordmark.svg.png">
 	<img height="50" src="https://code.visualstudio.com/assets/images/code-stable.png">
+	<img height="50" src="https://www.php.net/images/logos/new-php-logo.png">
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433">
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png">
 	<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png">
